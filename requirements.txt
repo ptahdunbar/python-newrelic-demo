@@ -1,0 +1,3 @@
+newrelic==8.7.0
+passeo==1.0.4
+python-dotenv==1.0.0
